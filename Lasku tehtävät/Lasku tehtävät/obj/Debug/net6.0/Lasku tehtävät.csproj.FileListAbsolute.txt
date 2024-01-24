@@ -1,0 +1,15 @@
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\Lasku tehtävät\Lasku tehtävät\bin\Debug\net6.0\Lasku tehtävät.exe
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\Lasku tehtävät\Lasku tehtävät\bin\Debug\net6.0\Lasku tehtävät.deps.json
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\Lasku tehtävät\Lasku tehtävät\bin\Debug\net6.0\Lasku tehtävät.runtimeconfig.json
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\Lasku tehtävät\Lasku tehtävät\bin\Debug\net6.0\Lasku tehtävät.dll
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\Lasku tehtävät\Lasku tehtävät\bin\Debug\net6.0\Lasku tehtävät.pdb
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\Lasku tehtävät\Lasku tehtävät\obj\Debug\net6.0\Lasku tehtävät.csproj.AssemblyReference.cache
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\Lasku tehtävät\Lasku tehtävät\obj\Debug\net6.0\Lasku tehtävät.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\Lasku tehtävät\Lasku tehtävät\obj\Debug\net6.0\Lasku tehtävät.AssemblyInfoInputs.cache
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\Lasku tehtävät\Lasku tehtävät\obj\Debug\net6.0\Lasku tehtävät.AssemblyInfo.cs
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\Lasku tehtävät\Lasku tehtävät\obj\Debug\net6.0\Lasku tehtävät.csproj.CoreCompileInputs.cache
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\Lasku tehtävät\Lasku tehtävät\obj\Debug\net6.0\Lasku tehtävät.dll
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\Lasku tehtävät\Lasku tehtävät\obj\Debug\net6.0\refint\Lasku tehtävät.dll
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\Lasku tehtävät\Lasku tehtävät\obj\Debug\net6.0\Lasku tehtävät.pdb
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\Lasku tehtävät\Lasku tehtävät\obj\Debug\net6.0\Lasku tehtävät.genruntimeconfig.cache
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\Lasku tehtävät\Lasku tehtävät\obj\Debug\net6.0\ref\Lasku tehtävät.dll

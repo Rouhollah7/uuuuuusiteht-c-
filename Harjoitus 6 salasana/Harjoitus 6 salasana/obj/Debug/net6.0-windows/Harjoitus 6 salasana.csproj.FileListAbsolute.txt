@@ -1,0 +1,7 @@
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\Harjoitus 6 salasana\Harjoitus 6 salasana\obj\Debug\net6.0-windows\Harjoitus 6 salasana.csproj.AssemblyReference.cache
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\Harjoitus 6 salasana\Harjoitus 6 salasana\obj\Debug\net6.0-windows\Harjoitus_6_salasana.SalasanaForm.resources
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\Harjoitus 6 salasana\Harjoitus 6 salasana\obj\Debug\net6.0-windows\Harjoitus 6 salasana.csproj.GenerateResource.cache
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\Harjoitus 6 salasana\Harjoitus 6 salasana\obj\Debug\net6.0-windows\Harjoitus 6 salasana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\Harjoitus 6 salasana\Harjoitus 6 salasana\obj\Debug\net6.0-windows\Harjoitus 6 salasana.AssemblyInfoInputs.cache
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\Harjoitus 6 salasana\Harjoitus 6 salasana\obj\Debug\net6.0-windows\Harjoitus 6 salasana.AssemblyInfo.cs
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\Harjoitus 6 salasana\Harjoitus 6 salasana\obj\Debug\net6.0-windows\Harjoitus 6 salasana.csproj.CoreCompileInputs.cache

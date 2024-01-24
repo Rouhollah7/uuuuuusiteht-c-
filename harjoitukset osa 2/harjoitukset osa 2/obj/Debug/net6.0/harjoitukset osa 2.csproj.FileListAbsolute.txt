@@ -1,0 +1,15 @@
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\harjoitukset osa 2\harjoitukset osa 2\bin\Debug\net6.0\harjoitukset osa 2.exe
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\harjoitukset osa 2\harjoitukset osa 2\bin\Debug\net6.0\harjoitukset osa 2.deps.json
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\harjoitukset osa 2\harjoitukset osa 2\bin\Debug\net6.0\harjoitukset osa 2.runtimeconfig.json
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\harjoitukset osa 2\harjoitukset osa 2\bin\Debug\net6.0\harjoitukset osa 2.dll
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\harjoitukset osa 2\harjoitukset osa 2\bin\Debug\net6.0\harjoitukset osa 2.pdb
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\harjoitukset osa 2\harjoitukset osa 2\obj\Debug\net6.0\harjoitukset osa 2.csproj.AssemblyReference.cache
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\harjoitukset osa 2\harjoitukset osa 2\obj\Debug\net6.0\harjoitukset osa 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\harjoitukset osa 2\harjoitukset osa 2\obj\Debug\net6.0\harjoitukset osa 2.AssemblyInfoInputs.cache
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\harjoitukset osa 2\harjoitukset osa 2\obj\Debug\net6.0\harjoitukset osa 2.AssemblyInfo.cs
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\harjoitukset osa 2\harjoitukset osa 2\obj\Debug\net6.0\harjoitukset osa 2.csproj.CoreCompileInputs.cache
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\harjoitukset osa 2\harjoitukset osa 2\obj\Debug\net6.0\harjoitukset osa 2.dll
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\harjoitukset osa 2\harjoitukset osa 2\obj\Debug\net6.0\refint\harjoitukset osa 2.dll
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\harjoitukset osa 2\harjoitukset osa 2\obj\Debug\net6.0\harjoitukset osa 2.pdb
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\harjoitukset osa 2\harjoitukset osa 2\obj\Debug\net6.0\harjoitukset osa 2.genruntimeconfig.cache
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\harjoitukset osa 2\harjoitukset osa 2\obj\Debug\net6.0\ref\harjoitukset osa 2.dll

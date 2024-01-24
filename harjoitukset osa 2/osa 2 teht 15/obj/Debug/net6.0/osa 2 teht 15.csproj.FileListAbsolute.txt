@@ -1,0 +1,15 @@
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\harjoitukset osa 2\osa 2 teht 15\bin\Debug\net6.0\osa 2 teht 15.exe
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\harjoitukset osa 2\osa 2 teht 15\bin\Debug\net6.0\osa 2 teht 15.deps.json
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\harjoitukset osa 2\osa 2 teht 15\bin\Debug\net6.0\osa 2 teht 15.runtimeconfig.json
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\harjoitukset osa 2\osa 2 teht 15\bin\Debug\net6.0\osa 2 teht 15.dll
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\harjoitukset osa 2\osa 2 teht 15\bin\Debug\net6.0\osa 2 teht 15.pdb
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\harjoitukset osa 2\osa 2 teht 15\obj\Debug\net6.0\osa 2 teht 15.csproj.AssemblyReference.cache
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\harjoitukset osa 2\osa 2 teht 15\obj\Debug\net6.0\osa 2 teht 15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\harjoitukset osa 2\osa 2 teht 15\obj\Debug\net6.0\osa 2 teht 15.AssemblyInfoInputs.cache
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\harjoitukset osa 2\osa 2 teht 15\obj\Debug\net6.0\osa 2 teht 15.AssemblyInfo.cs
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\harjoitukset osa 2\osa 2 teht 15\obj\Debug\net6.0\osa 2 teht 15.csproj.CoreCompileInputs.cache
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\harjoitukset osa 2\osa 2 teht 15\obj\Debug\net6.0\osa 2 teht 15.dll
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\harjoitukset osa 2\osa 2 teht 15\obj\Debug\net6.0\refint\osa 2 teht 15.dll
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\harjoitukset osa 2\osa 2 teht 15\obj\Debug\net6.0\osa 2 teht 15.pdb
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\harjoitukset osa 2\osa 2 teht 15\obj\Debug\net6.0\osa 2 teht 15.genruntimeconfig.cache
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\harjoitukset osa 2\osa 2 teht 15\obj\Debug\net6.0\ref\osa 2 teht 15.dll
