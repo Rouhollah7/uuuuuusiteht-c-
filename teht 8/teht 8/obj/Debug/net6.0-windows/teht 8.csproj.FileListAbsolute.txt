@@ -1,0 +1,18 @@
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\teht 8\teht 8\bin\Debug\net6.0-windows\teht 8.exe
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\teht 8\teht 8\bin\Debug\net6.0-windows\teht 8.deps.json
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\teht 8\teht 8\bin\Debug\net6.0-windows\teht 8.runtimeconfig.json
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\teht 8\teht 8\bin\Debug\net6.0-windows\teht 8.dll
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\teht 8\teht 8\bin\Debug\net6.0-windows\teht 8.pdb
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\teht 8\teht 8\obj\Debug\net6.0-windows\teht 8.csproj.AssemblyReference.cache
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\teht 8\teht 8\obj\Debug\net6.0-windows\teht_8.RoomalaisiksiForm.resources
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\teht 8\teht 8\obj\Debug\net6.0-windows\teht_8.Properties.Resources.resources
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\teht 8\teht 8\obj\Debug\net6.0-windows\teht 8.csproj.GenerateResource.cache
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\teht 8\teht 8\obj\Debug\net6.0-windows\teht 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\teht 8\teht 8\obj\Debug\net6.0-windows\teht 8.AssemblyInfoInputs.cache
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\teht 8\teht 8\obj\Debug\net6.0-windows\teht 8.AssemblyInfo.cs
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\teht 8\teht 8\obj\Debug\net6.0-windows\teht 8.csproj.CoreCompileInputs.cache
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\teht 8\teht 8\obj\Debug\net6.0-windows\teht 8.dll
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\teht 8\teht 8\obj\Debug\net6.0-windows\refint\teht 8.dll
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\teht 8\teht 8\obj\Debug\net6.0-windows\teht 8.pdb
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\teht 8\teht 8\obj\Debug\net6.0-windows\teht 8.genruntimeconfig.cache
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\teht 8\teht 8\obj\Debug\net6.0-windows\ref\teht 8.dll

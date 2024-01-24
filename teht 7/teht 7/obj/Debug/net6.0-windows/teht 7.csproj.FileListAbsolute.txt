@@ -1,0 +1,17 @@
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\teht 7\teht 7\obj\Debug\net6.0-windows\teht 7.csproj.AssemblyReference.cache
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\teht 7\teht 7\obj\Debug\net6.0-windows\teht_7.KustannusForm.resources
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\teht 7\teht 7\obj\Debug\net6.0-windows\teht 7.csproj.GenerateResource.cache
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\teht 7\teht 7\obj\Debug\net6.0-windows\teht 7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\teht 7\teht 7\obj\Debug\net6.0-windows\teht 7.AssemblyInfoInputs.cache
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\teht 7\teht 7\obj\Debug\net6.0-windows\teht 7.AssemblyInfo.cs
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\teht 7\teht 7\obj\Debug\net6.0-windows\teht 7.csproj.CoreCompileInputs.cache
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\teht 7\teht 7\bin\Debug\net6.0-windows\teht 7.exe
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\teht 7\teht 7\bin\Debug\net6.0-windows\teht 7.deps.json
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\teht 7\teht 7\bin\Debug\net6.0-windows\teht 7.runtimeconfig.json
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\teht 7\teht 7\bin\Debug\net6.0-windows\teht 7.dll
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\teht 7\teht 7\bin\Debug\net6.0-windows\teht 7.pdb
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\teht 7\teht 7\obj\Debug\net6.0-windows\teht 7.dll
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\teht 7\teht 7\obj\Debug\net6.0-windows\refint\teht 7.dll
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\teht 7\teht 7\obj\Debug\net6.0-windows\teht 7.pdb
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\teht 7\teht 7\obj\Debug\net6.0-windows\teht 7.genruntimeconfig.cache
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\teht 7\teht 7\obj\Debug\net6.0-windows\ref\teht 7.dll

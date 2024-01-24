@@ -1,0 +1,33 @@
+namespace teht_9
+{
+    public partial class AsteMuunninForm : Form
+    {
+        public AsteMuunninForm()
+        {
+            InitializeComponent();
+        }
+
+        private void MuunnaBT_Click(object sender, EventArgs e)
+        {
+            double vastaus;
+            double asteet = Convert.ToDouble(AsteetTB.Text);
+            if(CelsiusRB.Checked)
+            {
+                vastaus = asteet * 1.8 + 32;
+                VastausLB.Text = asteet + " Fahrenheitia on " + vastaus + " Celsius Astetta";
+                VastausLB.Visible = true;
+            }
+            else if(FarenheitRB.Checked)
+            {
+                vastaus = (asteet - 32) / 1.8;
+                VastausLB.Text = asteet + " Celsiusta on " + vastaus + " Fahrenheit Astetta";
+                VastausLB.Visible = true;
+            }
+            else
+            {
+                VastausLB.Text = "Et ole valinnut muunnettava tai antanut oikea luku";
+                VastausLB.Visible = false;
+            }
+        }
+    }
+}
