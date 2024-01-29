@@ -1,0 +1,18 @@
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\Teht 11\Teht 11\bin\Debug\net6.0-windows\Teht 11.exe
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\Teht 11\Teht 11\bin\Debug\net6.0-windows\Teht 11.deps.json
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\Teht 11\Teht 11\bin\Debug\net6.0-windows\Teht 11.runtimeconfig.json
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\Teht 11\Teht 11\bin\Debug\net6.0-windows\Teht 11.dll
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\Teht 11\Teht 11\bin\Debug\net6.0-windows\Teht 11.pdb
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\Teht 11\Teht 11\obj\Debug\net6.0-windows\Teht 11.csproj.AssemblyReference.cache
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\Teht 11\Teht 11\obj\Debug\net6.0-windows\Teht_11.NopanHeitto.resources
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\Teht 11\Teht 11\obj\Debug\net6.0-windows\Teht_11.Properties.Resources.resources
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\Teht 11\Teht 11\obj\Debug\net6.0-windows\Teht 11.csproj.GenerateResource.cache
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\Teht 11\Teht 11\obj\Debug\net6.0-windows\Teht 11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\Teht 11\Teht 11\obj\Debug\net6.0-windows\Teht 11.AssemblyInfoInputs.cache
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\Teht 11\Teht 11\obj\Debug\net6.0-windows\Teht 11.AssemblyInfo.cs
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\Teht 11\Teht 11\obj\Debug\net6.0-windows\Teht 11.csproj.CoreCompileInputs.cache
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\Teht 11\Teht 11\obj\Debug\net6.0-windows\Teht 11.dll
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\Teht 11\Teht 11\obj\Debug\net6.0-windows\refint\Teht 11.dll
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\Teht 11\Teht 11\obj\Debug\net6.0-windows\Teht 11.pdb
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\Teht 11\Teht 11\obj\Debug\net6.0-windows\Teht 11.genruntimeconfig.cache
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\Teht 11\Teht 11\obj\Debug\net6.0-windows\ref\Teht 11.dll
