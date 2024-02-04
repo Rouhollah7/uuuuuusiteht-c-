@@ -1,0 +1,17 @@
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\Teht 15\Teht 15\bin\Debug\net6.0-windows\Teht 15.exe
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\Teht 15\Teht 15\bin\Debug\net6.0-windows\Teht 15.deps.json
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\Teht 15\Teht 15\bin\Debug\net6.0-windows\Teht 15.runtimeconfig.json
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\Teht 15\Teht 15\bin\Debug\net6.0-windows\Teht 15.dll
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\Teht 15\Teht 15\bin\Debug\net6.0-windows\Teht 15.pdb
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\Teht 15\Teht 15\obj\Debug\net6.0-windows\Teht 15.csproj.AssemblyReference.cache
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\Teht 15\Teht 15\obj\Debug\net6.0-windows\Teht_15.SekkariForm.resources
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\Teht 15\Teht 15\obj\Debug\net6.0-windows\Teht 15.csproj.GenerateResource.cache
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\Teht 15\Teht 15\obj\Debug\net6.0-windows\Teht 15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\Teht 15\Teht 15\obj\Debug\net6.0-windows\Teht 15.AssemblyInfoInputs.cache
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\Teht 15\Teht 15\obj\Debug\net6.0-windows\Teht 15.AssemblyInfo.cs
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\Teht 15\Teht 15\obj\Debug\net6.0-windows\Teht 15.csproj.CoreCompileInputs.cache
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\Teht 15\Teht 15\obj\Debug\net6.0-windows\Teht 15.dll
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\Teht 15\Teht 15\obj\Debug\net6.0-windows\refint\Teht 15.dll
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\Teht 15\Teht 15\obj\Debug\net6.0-windows\Teht 15.pdb
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\Teht 15\Teht 15\obj\Debug\net6.0-windows\Teht 15.genruntimeconfig.cache
+C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\Teht 15\Teht 15\obj\Debug\net6.0-windows\ref\Teht 15.dll
