@@ -1,0 +1,17 @@
+C:\Users\rouhollah.tajik\source\repos\windowsForm\teht 18\teht 18\bin\Debug\net6.0-windows\teht 18.exe
+C:\Users\rouhollah.tajik\source\repos\windowsForm\teht 18\teht 18\bin\Debug\net6.0-windows\teht 18.deps.json
+C:\Users\rouhollah.tajik\source\repos\windowsForm\teht 18\teht 18\bin\Debug\net6.0-windows\teht 18.runtimeconfig.json
+C:\Users\rouhollah.tajik\source\repos\windowsForm\teht 18\teht 18\bin\Debug\net6.0-windows\teht 18.dll
+C:\Users\rouhollah.tajik\source\repos\windowsForm\teht 18\teht 18\bin\Debug\net6.0-windows\teht 18.pdb
+C:\Users\rouhollah.tajik\source\repos\windowsForm\teht 18\teht 18\obj\Debug\net6.0-windows\teht 18.csproj.AssemblyReference.cache
+C:\Users\rouhollah.tajik\source\repos\windowsForm\teht 18\teht 18\obj\Debug\net6.0-windows\teht_18.AvainhenkilotForm.resources
+C:\Users\rouhollah.tajik\source\repos\windowsForm\teht 18\teht 18\obj\Debug\net6.0-windows\teht 18.csproj.GenerateResource.cache
+C:\Users\rouhollah.tajik\source\repos\windowsForm\teht 18\teht 18\obj\Debug\net6.0-windows\teht 18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rouhollah.tajik\source\repos\windowsForm\teht 18\teht 18\obj\Debug\net6.0-windows\teht 18.AssemblyInfoInputs.cache
+C:\Users\rouhollah.tajik\source\repos\windowsForm\teht 18\teht 18\obj\Debug\net6.0-windows\teht 18.AssemblyInfo.cs
+C:\Users\rouhollah.tajik\source\repos\windowsForm\teht 18\teht 18\obj\Debug\net6.0-windows\teht 18.csproj.CoreCompileInputs.cache
+C:\Users\rouhollah.tajik\source\repos\windowsForm\teht 18\teht 18\obj\Debug\net6.0-windows\teht 18.dll
+C:\Users\rouhollah.tajik\source\repos\windowsForm\teht 18\teht 18\obj\Debug\net6.0-windows\refint\teht 18.dll
+C:\Users\rouhollah.tajik\source\repos\windowsForm\teht 18\teht 18\obj\Debug\net6.0-windows\teht 18.pdb
+C:\Users\rouhollah.tajik\source\repos\windowsForm\teht 18\teht 18\obj\Debug\net6.0-windows\teht 18.genruntimeconfig.cache
+C:\Users\rouhollah.tajik\source\repos\windowsForm\teht 18\teht 18\obj\Debug\net6.0-windows\ref\teht 18.dll
