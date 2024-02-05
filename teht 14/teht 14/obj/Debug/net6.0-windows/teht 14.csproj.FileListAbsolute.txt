@@ -15,3 +15,20 @@ C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\teht 14
 C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\teht 14\teht 14\obj\Debug\net6.0-windows\teht 14.pdb
 C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\teht 14\teht 14\obj\Debug\net6.0-windows\teht 14.genruntimeconfig.cache
 C:\Users\rouhollah.tajik\OneDrive - Keski-Uudenmaan koulutuskuntayhtymä\teht 14\teht 14\obj\Debug\net6.0-windows\ref\teht 14.dll
+C:\Users\rouhollah.tajik\source\repos\windowsForm\teht 14\teht 14\bin\Debug\net6.0-windows\teht 14.exe
+C:\Users\rouhollah.tajik\source\repos\windowsForm\teht 14\teht 14\bin\Debug\net6.0-windows\teht 14.deps.json
+C:\Users\rouhollah.tajik\source\repos\windowsForm\teht 14\teht 14\bin\Debug\net6.0-windows\teht 14.runtimeconfig.json
+C:\Users\rouhollah.tajik\source\repos\windowsForm\teht 14\teht 14\bin\Debug\net6.0-windows\teht 14.dll
+C:\Users\rouhollah.tajik\source\repos\windowsForm\teht 14\teht 14\bin\Debug\net6.0-windows\teht 14.pdb
+C:\Users\rouhollah.tajik\source\repos\windowsForm\teht 14\teht 14\obj\Debug\net6.0-windows\teht 14.csproj.AssemblyReference.cache
+C:\Users\rouhollah.tajik\source\repos\windowsForm\teht 14\teht 14\obj\Debug\net6.0-windows\teht_14.DiaryForm.resources
+C:\Users\rouhollah.tajik\source\repos\windowsForm\teht 14\teht 14\obj\Debug\net6.0-windows\teht 14.csproj.GenerateResource.cache
+C:\Users\rouhollah.tajik\source\repos\windowsForm\teht 14\teht 14\obj\Debug\net6.0-windows\teht 14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rouhollah.tajik\source\repos\windowsForm\teht 14\teht 14\obj\Debug\net6.0-windows\teht 14.AssemblyInfoInputs.cache
+C:\Users\rouhollah.tajik\source\repos\windowsForm\teht 14\teht 14\obj\Debug\net6.0-windows\teht 14.AssemblyInfo.cs
+C:\Users\rouhollah.tajik\source\repos\windowsForm\teht 14\teht 14\obj\Debug\net6.0-windows\teht 14.csproj.CoreCompileInputs.cache
+C:\Users\rouhollah.tajik\source\repos\windowsForm\teht 14\teht 14\obj\Debug\net6.0-windows\teht 14.dll
+C:\Users\rouhollah.tajik\source\repos\windowsForm\teht 14\teht 14\obj\Debug\net6.0-windows\refint\teht 14.dll
+C:\Users\rouhollah.tajik\source\repos\windowsForm\teht 14\teht 14\obj\Debug\net6.0-windows\teht 14.pdb
+C:\Users\rouhollah.tajik\source\repos\windowsForm\teht 14\teht 14\obj\Debug\net6.0-windows\teht 14.genruntimeconfig.cache
+C:\Users\rouhollah.tajik\source\repos\windowsForm\teht 14\teht 14\obj\Debug\net6.0-windows\ref\teht 14.dll
