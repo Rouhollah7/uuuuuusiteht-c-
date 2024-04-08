@@ -1,4 +1,4 @@
-﻿namespace pizza
+﻿namespace Laskin
 {
     partial class Form1
     {

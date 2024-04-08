@@ -1,4 +1,4 @@
-namespace pizza
+namespace Laskin
 {
     internal static class Program
     {
