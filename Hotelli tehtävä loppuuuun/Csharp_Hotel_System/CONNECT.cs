@@ -18,6 +18,7 @@ namespace Csharp_Hotel_System
         {
             return connection;
         }
+        //moi
 
         public void openConnection()
         {
